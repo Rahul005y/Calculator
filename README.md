@@ -6,8 +6,8 @@ Perform basic arithmetic operations like addition, subtraction, multiplication, 
 ---
 
 ## 🌐 Live Demo
-🔗 [Try the Calculator Online](https://your-demo-link.com)  
-*(Replace with your GitHub Pages or Netlify link)*
+🔗 [Try the Calculator Online]( https://rahul005y.github.io/Calculator/)  
+
 
 ---
 
